@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RansomSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139311f9b0fc5ff8d6d1c04178df069db8e03e2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RansomSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RansomSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
