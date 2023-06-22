@@ -11,7 +11,8 @@
 
   <!-- Imagem ou GIF demonstrando o funcionamento do projeto -->
 
-  ![Demonstração do RansomSharp](demo.gif)
+  ![Demonstração do RansomSharp](https://github.com/H4x0rModdz/RansomSharp/raw/main/demo.gif)
+
 
   ## Sobre o Ransomware
 

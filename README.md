@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/H4x0rModdz/RansomSharp/raw/main/RansomSharp_logo.png" alt="Logo do Projeto" width="200">
+  <img src="https://github.com/H4x0rModdz/RansomSharp/raw/main/RansomSharp_logo.png" alt="Project Logo" width="200">
 
   # RansomSharp
 
@@ -11,7 +11,7 @@
 
   <!-- Image or GIF demonstrating the operation of the project -->
 
-  ![RansomSharp Demo](demo.gif)
+  ![RansomSharp Demo](https://github.com/H4x0rModdz/RansomSharp/raw/main/demo.gif)
 
   ## About Ransomware
 
