@@ -1,4 +1,4 @@
-﻿using RansomSharp.Core.Console;
+﻿//using RansomSharp.Core.Console;
 using RansomSharp.Core.Service;
 
 //ConsoleCloserDisabler.DisableCloseButton();
