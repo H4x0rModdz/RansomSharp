@@ -3,7 +3,6 @@
 namespace RansomSharp.Wallpaper;
 public class WallpaperHelper
 {
-    // Download Wallpaper
     public static async Task DownloadWallpaper(string wallpaperUrl, string wallpaperPath)
     {
         using (HttpClient client = new HttpClient())
